@@ -1,0 +1,303 @@
+  received captcha answer 169 in 24 seconds
+  Captcha success
+  Captcha failed
+  Captcha success
+  received captcha answer 59 in 45 seconds
+  Captcha success
+  received captcha answer 1 in 6 seconds
+  Captcha success
+  Captcha failed
+  Captcha success
+  received captcha answer 128 in 6 seconds
+  Captcha success
+  received captcha answer 689 in 42 seconds
+  Captcha success
+  Captcha failed
+  Captcha success
+  received captcha answer 347 in 21 seconds
+  Captcha success
+  received captcha answer 3589 in 9 seconds
+  Captcha success
+  received captcha answer 157 in 24 seconds
+  Captcha success
+  received captcha answer 247 in 9 seconds
+  Captcha success
+  received captcha answer 23 in 39 seconds
+  Captcha success
+  received captcha answer 1457 in 21 seconds
+  Captcha success
+  received captcha answer 478 in 18 seconds
+  Captcha success
+  received captcha answer 1679 in 12 seconds
+  Captcha success
+  received captcha answer 123 in 6 seconds
+  Captcha success
+  Captcha failed
+  received captcha answer 256 in 18 seconds
+  Captcha success
+  received captcha answer 1236 in 18 seconds
+  Captcha success
+  received captcha answer 2378 in 15 seconds
+  Captcha success
+received captcha answer 147 in 9 seconds
+Captcha success
+received captcha answer 678 in 36 seconds
+Captcha success
+received captcha answer 249 in 33 seconds
+Captcha success
+received captcha answer 1256 in 9 seconds
+Captcha success
+received captcha answer 368 in 6 seconds
+Captcha success
+received captcha answer 678 in 9 seconds
+Captcha success
+received captcha answer 981 in 12 seconds
+Captcha success
+received captcha answer 14 in 33 seconds
+Captcha success
+received captcha answer 1456 in 30 seconds
+Captcha success
+received captcha answer 1358 in 15 seconds
+Captcha success
+received captcha answer 127 in 12 seconds
+Captcha success
+received captcha answer 4578 in 15 seconds
+Captcha success
+received captcha answer 467 in 12 seconds
+Captcha success
+Captcha failed
+Captcha success
+received captcha answer 7 in 33 seconds
+
+Captcha success
+Captcha failed
+received captcha answer 3 in 9 seconds
+
+Captcha success
+received captcha answer 1567 in 9 seconds
+
+Captcha success
+received captcha answer 248 in 18 seconds
+
+Captcha success
+received captcha answer 234 in 21 seconds
+
+Captcha success
+received captcha answer 157 in 12 seconds
+
+Captcha success
+received captcha answer 236 in 15 seconds
+
+Captcha success
+received captcha answer 347 in 12 seconds
+
+Captcha success
+
+received captcha answer 47 in 24 seconds
+
+Captcha success
+received captcha answer 1457 in 12 seconds
+
+Captcha failed
+received captcha answer 125 in 21 seconds
+
+Captcha success
+
+received captcha answer 258 in 9 seconds
+
+Captcha success
+
+Captcha failed
+
+received captcha answer 369 in 15 seconds
+
+Captcha success
+
+received captcha answer 249 in 9 seconds
+
+Captcha success
+received captcha answer 1346 in 15 seconds
+
+Captcha success
+
+received captcha answer 28 in 9 seconds
+
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+received captcha answer 146 in 6 seconds
+
+Captcha success
+Captcha failed
+received captcha answer 128 in 12 seconds
+
+Captcha success
+received captcha answer 1 in 18 seconds
+
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+received captcha answer 1467 in 15 seconds
+
+Captcha success
+Captcha failed
+
+received captcha answer 4 in 18 seconds 
+
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+received captcha answer 146 in 18 seconds 
+
+Captcha success
+received captcha answer 389 in 30 seconds 
+
+Captcha success
+received captcha answer 236 in 9 seconds 
+
+Captcha success
+received captcha answer 278 in 18 seconds 
+
+Captcha success
+received captcha answer 126 in 9 seconds 
+
+Captcha success
+received captcha answer 3468 in 9 seconds 
+
+Captcha success
+received captcha answer 235 in 12 seconds 
+
+received captcha answer 3 in 33 seconds 
+
+Captcha success
+received captcha answer 357 in 27 seconds 
+
+Captcha success
+Captcha success
+received captcha answer 2 in 12 seconds 
+
+Captcha success
+Captcha failed
+received captcha answer 568 in 3 seconds 
+
+Captcha success
+received captcha answer 357 in 15 seconds 
+
+received captcha answer 2579 in 18 seconds 
+
+Captcha success
+Captcha success
+Captcha success
+received captcha answer 1457 in 21 seconds 
+
+Captcha success
+received captcha answer 2467 in 12 seconds 
+
+Captcha success
+received captcha answer 1478 in 12 seconds 
+
+received captcha answer 367 in 15 seconds 
+
+Captcha success
+Captcha success
+received captcha answer 268 in 33 seconds 
+
+Captcha failed
+Captcha success
+Captcha success
+received captcha answer 371115 in 9 seconds 
+
+Captcha success
+Captcha failed
+Captcha success
+Captcha failed
+Captcha success
+received captcha answer 267 in 18 seconds 
+
+Captcha success
+received captcha answer 1238 in 18 seconds 
+
+Captcha success
+received captcha answer 346 in 12 seconds 
+
+Captcha success
+Captcha failed
+Captcha success
+Captcha failed
+Captcha failed
+Captcha failed
+Captcha failed
+Captcha failed
+Captcha failed
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha success
+Captcha failed
+Captcha success
+received captcha answer 236 in 9 seconds 
+
+Captcha success
+received captcha answer 478 in 30 seconds 
+
+Captcha success
+received captcha answer 1 in 18 seconds 
+
+Captcha success
+received captcha answer 567 in 24 seconds 
+
+Captcha success
+received captcha answer 238 in 9 seconds 
+
+Captcha success
+received captcha answer 278 in 12 seconds 
+
+Captcha success
+received captcha answer 3 in 15 seconds 
+
+Captcha success
+received captcha answer 457 in 6 seconds 
+
+Captcha success
+Captcha failed
+Captcha success
+received captcha answer 178 in 9 seconds 
+
+Captcha success
+received captcha answer 378 in 9 seconds 
+
+Captcha success
+received captcha answer 23 in 21 seconds 
+
+Captcha success
+Captcha failed
+Captcha success
+received captcha answer 348 in 18 seconds 
+
+Captcha success
+received captcha answer 3568 in 21 seconds 
+
+Captcha success
+received captcha answer 345 in 12 seconds 
+
+Captcha success
+received captcha answer 167 in 12 seconds 
+
+Captcha success
